@@ -1,0 +1,14 @@
+﻿Build started 9/15/2014 1:22:46 AM.
+     1>Project "C:\Users\Jiarui\Documents\GitHub\Backpropagation-Algorithm\BP.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Jiarui\Documents\GitHub\Backpropagation-Algorithm\Debug\BP.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Jiarui\Documents\GitHub\Backpropagation-Algorithm\Debug\BP.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Jiarui\Documents\GitHub\Backpropagation-Algorithm\Debug\BP.lib" /MACHINE:X86 Debug\main.obj
+         Debug\readfile.obj
+         BP.vcxproj -> C:\Users\Jiarui\Documents\GitHub\Backpropagation-Algorithm\Debug\BP.exe
+     1>Done Building Project "C:\Users\Jiarui\Documents\GitHub\Backpropagation-Algorithm\BP.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.00

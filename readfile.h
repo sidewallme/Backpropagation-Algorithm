@@ -1,6 +1,8 @@
+#include <vector>
+#include <fstream>
+#include <string>
+#include <sstream>
 
-using namespace std;
-
-
-bool read(vector<vector<double>> &data,const char* file_path);
+//read the file from the filepath into the 2d data vector
+bool read(std::vector<std::vector<double>> &data, const char* file_path);
 
