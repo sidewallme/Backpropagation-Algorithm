@@ -1,6 +1,7 @@
 //  Copyright (c) 2014 Jiarui Xu. All rights reserved.
 
-// It is a Batch version of Backpropagation Algorithm on Neuroph Network using SCAWI (For more information about SCAWI, please refer to http://bit.ly/1qCQYII)
+// It is a Batch version of Backpropagation Algorithm on Neuroph Network using SCAWI 
+//(For more information about SCAWI, please refer to http://bit.ly/1qCQYII)
 // p.s. more feature to come...
 
 #include "main.h"
@@ -36,7 +37,6 @@ int main(int argc, const char * argv[])
 		//update weights;
 		updateWeights();
 	}
-	cout << hiddenToOut_weights[0][0] << endl;
 	cout << "FINISHED" << endl;
 	cout << "press something to continue...";
 	getchar();//for viewing, pause;
