@@ -2,7 +2,7 @@
 
 // It is a Batch version of Backpropagation Algorithm on Neuroph Network using SCAWI 
 //(For more information about SCAWI, please refer to http://bit.ly/1qCQYII)
-// p.s. more feature to come...
+// p.s. more features to come...
 
 #include "main.h"
 using namespace std;
